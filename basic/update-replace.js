@@ -1,5 +1,7 @@
 'use strict';
 
+// execute `$ mongo listful < ./basic/update-replace.js`
+
 // Find the document
 const doc = db.items.findOne({ name: 'Apples' });
 

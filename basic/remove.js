@@ -1,8 +1,9 @@
 'use strict';
 
+// execute `$ mongo listful < ./basic/remove.js`
 
 // .remove(query) remove multiple
-// db.items.remove({ done: true });
+db.items.remove({ done: true });
 
 // .remove(query)
 const doc = db.items.findOne({ name: 'Computer' });

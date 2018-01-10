@@ -1,5 +1,7 @@
 'use strict';
 
+// execute `$ mongo listful < ./basic/insert.js`
+
 // create some document objects to insert
 const item = { 
   'name': 'Computer', 
