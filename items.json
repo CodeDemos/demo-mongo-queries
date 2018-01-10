@@ -1,0 +1,13 @@
+[
+  { "name": "Apples",   "tags": ["grocery", "fruit"],       "done": false },
+  { "name": "Bananas",  "tags": ["grocery", "fruit"],       "done": true },
+  { "name": "Celery",   "tags": ["grocery", "veggie"],      "done": false },
+  { "name": "Lettuce",  "tags": ["grocery", "veggie"],      "done": false },
+  { "name": "Bread",    "tags": ["grocery", "grain"],       "done": true },
+  { "name": "Milk",     "tags": ["grocery", "dairy"],       "done": false },
+  { "name": "Wine",     "tags": ["grocery", "alcohol"],     "done": true },
+  { "name": "IceCream", "tags": ["grocery", "treat"],       "done": false },
+  { "name": "Jeans",    "tags": ["clothing"],               "done": true },
+  { "name": "Shoes",    "tags": ["shoes"],                  "done": false },
+  { "name": "Tablet",   "tags": ["online", "electronics"],  "done": true }
+]
